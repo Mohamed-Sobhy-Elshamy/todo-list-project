@@ -43,3 +43,4 @@ Tasks saved in `tasks.txt` are reloaded into the application, allowing you to pi
 
 ## 📁 File Structure
 
+todo-list-project/ ├── main.cpp # Main project file ├── tasks.txt # Saved tasks file (generated dynamically) ├── README.md # Documentation file └── .gitignore # Ignored files (e.g., compiled binaries)todo-list-project/ ├── main.cpp # ملف المشروع الرئيسي ├── المهام.txt # ملف المهام المحفوظة (يتم إنشاؤه ديناميكيًا) ├── README.md # ملف الوثائق └── .gitignore # الملفات المتجاهلة (على سبيل المثال، الثنائيات المجمعة)

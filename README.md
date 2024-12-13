@@ -21,7 +21,7 @@ A console-based To-Do List application in **C++** using a **Linked List** data s
 ### **1. Adding Tasks**
 You can add tasks by providing their description and priority. Each new task is added to the top of the list.
 
-### **2. Viewing Tasks**###**
+### **2. Viewing Tasks**
 The application displays all tasks in the list along with their priorities.
 
 ### **3. Marking Tasks as Done**

@@ -21,7 +21,7 @@ A console-based To-Do List application in **C++** using a **Linked List** data s
 ### **1. Adding Tasks**
 You can add tasks by providing their description and priority. Each new task is added to the top of the list.
 
-### **2. Viewing Tasks**
+### **2. Viewing Tasks**### **2. عرض المهام**
 The application displays all tasks in the list along with their priorities.
 
 ### **3. Marking Tasks as Done**
@@ -38,9 +38,3 @@ The tasks are saved in a file named `tasks.txt` for future use. Each task’s de
 
 ### **7. Loading Tasks from a File**
 Tasks saved in `tasks.txt` are reloaded into the application, allowing you to pick up where you left off.
-
----
-
-## 📁 File Structure
-
-todo-list-project/ ├── main.cpp # Main project file ├── tasks.txt # Saved tasks file (generated dynamically) ├── README.md # Documentation file └── .gitignore # Ignored files (e.g., compiled binaries)todo-list-project/ ├── main.cpp # ملف المشروع الرئيسي ├── المهام.txt # ملف المهام المحفوظة (يتم إنشاؤه ديناميكيًا) ├── README.md # ملف الوثائق └── .gitignore # الملفات المتجاهلة (على سبيل المثال، الثنائيات المجمعة)

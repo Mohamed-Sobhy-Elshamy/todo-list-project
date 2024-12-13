@@ -1,0 +1,3 @@
+Study For Exams,Low
+Go To The GYM,Medium
+Complete Project (Done),High

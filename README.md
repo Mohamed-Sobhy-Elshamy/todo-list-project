@@ -12,7 +12,27 @@ A simple, efficient, and extendable **To-Do List Application** built in **C++** 
 - **Load Tasks:** Reload tasks from a saved file.
 - **Priority Management:** Tasks are categorized based on their priority.
   
+
 ---
 
-## 📁 File Structure
+## 🛠️ How It Works
 
+1. **Adding Tasks:**  
+   Input task descriptions and priorities using the console interface.
+
+2. **Deleting Tasks:**  
+   Select and remove a task by its position or description.
+
+3. **Saving Tasks:**  
+   Save tasks to a file (`tasks.txt`) for long-term storage.
+
+4. **Loading Tasks:**  
+   Reload previously saved tasks back into the application.
+
+---
+
+## 💻 Installation & Usage
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/USERNAME/todo-list-project.git
